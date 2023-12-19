@@ -1,7 +1,8 @@
 ### Hi, I'm Pere 👋
 
 # 💫 About Me:
-💻 Young software developer
+💻 Junior software developer
+🌱 Currently learning...
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pereprior_) 
