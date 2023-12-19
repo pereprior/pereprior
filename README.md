@@ -1,7 +1,7 @@
 ### Hi, I'm Pere 👋
 
 # 💫 About Me:
-💻 Junior software developer
+💻 Junior software developer <br/>
 🌱 Currently learning...
 
 ## 🌐 Socials:
