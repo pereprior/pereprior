@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi, I'm Pere 👋
+# Hi, I'm Pere 👋
 ![gif](https://github.com/pereprior/pereprior/blob/main/pikachu_saludo.gif)
 
 </div>
