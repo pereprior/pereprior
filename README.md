@@ -1,7 +1,8 @@
 <div align="center">
   
 # Hi, I'm Pere 👋
-<sub> Nice to meet you <sub/>
+<sub> Nice to meet you <sub/> <br>
+
 ![gif](https://github.com/pereprior/pereprior/blob/main/pikachu_saludo.gif)
 
 </div>
