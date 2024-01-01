@@ -1,12 +1,15 @@
 <div align="center">
 
-# Hi, I'm Pere 👋
+# Hi, I'm Pere :wave:
 <sub> Nice to meet you <sub/> <br>
 
 ![gif](https://github.com/pereprior/pereprior/blob/main/birds.gif)
 
-💻 IT Technician & Junior software developer <br>
-🌱 Currently learning... <br>
+<pre>
+  ♂️ 20 years old • Nules, Valencia, Spain
+  💻 IT Technician • Junior software developer
+  🌱 Currently learning...
+</pre>
 
 </div>
 
@@ -17,7 +20,7 @@
   More about me...
 </summary>
 
-## 💻 Tech Stack:
+## Tech Stack 💻
 
 <div align="center">
   
@@ -27,7 +30,7 @@
 
 </div>
 
-## 🌐 Socials:
+## Socials 🌐
 
 <div align="center">
 
@@ -35,7 +38,7 @@
 
 </div>
 
-## Languages 🌐
+## Languages 🗣️
 
 | Language      | Proficiency      |
 | ------------- | ---------------- |
