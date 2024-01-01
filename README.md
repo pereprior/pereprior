@@ -5,10 +5,10 @@
 
 ![gif](https://github.com/pereprior/pereprior/blob/main/birds.gif)
 
-</div>
-
  💻 IT Technician & Junior software developer <br>
  🌱 Currently learning... <br>
+
+</div>
 
 <details>
 
