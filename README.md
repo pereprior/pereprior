@@ -3,7 +3,7 @@
 # Hi, I'm Pere :wave:
 <sub> Nice to meet you <sub/> <br>
 
-<img src="https://github.com/pereprior/pereprior/blob/main/pikachu-running.gif" alt="gif" width="200"/>
+<img src="https://github.com/pereprior/pereprior/blob/main/pikachu-running.gif" alt="gif" width="200"/> <br>
 
 <pre>
   ♂️ 20 years old • Nules, Valencia, Spain
