@@ -7,8 +7,8 @@
 
 </div>
 
-### 💻 IT Technician & Junior software developer
-### 🌱 Currently learning...
+ 💻 IT Technician & Junior software developer <br>
+ 🌱 Currently learning... <br>
 
 <details>
 
