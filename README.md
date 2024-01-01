@@ -35,9 +35,13 @@
 
 </div>
 
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Languages 🌐
 
+| Language      | Proficiency      |
+| ------------- | ---------------- |
+| English       | B1               |
+| Spanish       | Native language  |
+| Catalan       | Native language  |
 
 ---
 
