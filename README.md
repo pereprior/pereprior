@@ -5,7 +5,7 @@
 
 ![gif](https://github.com/pereprior/pereprior/blob/main/birds.gif)
 
-<div align="left">
+<div>
 💻 IT Technician & Junior software developer <br>
 🌱 Currently learning... <br>
 </div>
