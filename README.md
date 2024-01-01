@@ -1,6 +1,6 @@
 # <p align="center"> Hi, I'm Pere 👋 <p/>
 
-### 💫 About Me:
+## 💫 About Me:
 💻 Junior software developer <br/>
 🌱 Currently learning...<br/>
 
