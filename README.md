@@ -6,7 +6,7 @@
 <img src="https://github.com/pereprior/pereprior/blob/main/pikachu-running.gif" alt="gif" width="200"/> <br>
 
 <pre>
-  ♂️ 20 years old • Nules, Valencia, Spain
+  ♂️ 20 years old • Nules, Spain
   💻 IT Technician • Junior software developer
   🌱 Currently learning...
 </pre>
