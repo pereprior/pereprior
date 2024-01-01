@@ -1,4 +1,4 @@
-### Hi, I'm Pere 👋
+### <p align="center"> Hi, I'm Pere 👋 <p/>
 
 # 💫 About Me:
 💻 Junior software developer <br/>
