@@ -8,7 +8,7 @@
 </div>
 
 ## 💫 About Me:
-💻 Junior software developer <br/>
+💻 IT Techinician & Junior software developer <br/>
 🌱 Currently learning...<br/>
 
 ## 💻 Tech Stack:
