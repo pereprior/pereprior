@@ -1,5 +1,5 @@
 # <p align="center"> Hi, I'm Pere 👋 <p/>
-<sub> Nice to meet you! </sub>
+<sup> Nice to meet you! </sup>
 
 ## 💫 About Me:
 💻 Junior software developer <br/>
