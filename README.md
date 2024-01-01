@@ -7,9 +7,6 @@
 
 </div>
 
-## 💫 About Me:
-
-
 💻 IT Technician & Junior software developer <br/>
 🌱 Currently learning...<br/>
 
