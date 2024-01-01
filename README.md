@@ -10,6 +10,7 @@
 
 </div>
 
+<div align="center">
 <details>
 
 <summary>
@@ -43,5 +44,5 @@
 [![](https://visitcount.itsvg.in/api?id=pereprior&icon=0&color=0)](https://visitcount.itsvg.in)
   
 </details>
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
