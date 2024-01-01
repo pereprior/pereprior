@@ -30,7 +30,7 @@
 
 </div>
 
-## Socials 🌐
+## Social Media 🌐
 
 <div align="center">
 
