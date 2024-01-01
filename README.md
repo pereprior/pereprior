@@ -16,6 +16,7 @@
 ---
 
 # <p align="center"> See you soon! <p/>
+![Bye gif](https://github.com/pereprior/pereprior/blob/main/pikachu_saludo.gif)
 
 [![](https://visitcount.itsvg.in/api?id=pereprior&icon=0&color=0)](https://visitcount.itsvg.in)
 
