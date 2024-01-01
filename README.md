@@ -1,5 +1,4 @@
 # <p align="center"> Hi, I'm Pere 👋 <p/>
-<sup> Nice to meet you! </sup>
 
 ## 💫 About Me:
 💻 Junior software developer <br/>
@@ -15,6 +14,8 @@
 </div>
 
 ---
+
+# <p align="center"> See you soon! <p/>
 
 [![](https://visitcount.itsvg.in/api?id=pereprior&icon=0&color=0)](https://visitcount.itsvg.in)
 
