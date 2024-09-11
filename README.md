@@ -8,7 +8,7 @@
 <pre>
   ♂️ 21 years old • Nules, Spain
   💻 IT Technician • Junior software developer
-  🔠 Kotlin • Java • XML • HTML • CSS • Javascript
+  🔠 Kotlin • Java • PHP • HTML • CSS • Javascript
   🌱 Currently learning...
 </pre>
 
