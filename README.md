@@ -6,8 +6,8 @@
 <img src="https://github.com/pereprior/pereprior/blob/main/pikachu-running.gif" alt="gif" width="200"/> <br>
 
 <pre>
-  ♂️ 22 years old • Nules, Spain
-  💻 IT Technician • Junior software developer
+  ♂️ 23 years old • Nules, Spain
+  💻 Junior software engineer
   🔠 Kotlin • Java • PHP • HTML • CSS • Javascript • SQL
   🧑‍🏫 IT private tutor
 </pre>
