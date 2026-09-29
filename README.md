@@ -1,56 +1,51 @@
-<div align="center">
+# Hi, I'm Pere 👋
 
-# Hi, I'm Pere :wave:
-<sub> Nice to meet you <sub/> <br>
+I'm a backend software engineer working in fintech, mainly with TypeScript,
+NestJS, APIs, databases and third-party integrations.
 
-<img src="https://github.com/pereprior/pereprior/blob/main/pikachu-running.gif" alt="gif" width="200"/> <br>
+What I enjoy most about software engineering is understanding how things work,
+solving real problems and finding simple, reliable ways to build them.
 
-<pre>
-  ♂️ 23 years old • Nules, Spain
-  💻 Junior software engineer
-  🔠 Kotlin • Java • PHP • HTML • CSS • Javascript • SQL
-  🧑‍🏫 IT private tutor
-</pre>
+I'm still early in my career, so a big part of my focus right now is learning
+how real systems behave outside of the ideal case: failures, integrations,
+data, architecture, security and all the small decisions that make software
+easier or harder to maintain.
 
-</div>
+## What I'm working on
 
-<div align="center">
-<details>
+### LiLi
 
-<summary>
-  More about me...
-</summary>
+I'm building **LiLi**, a private and self-hosted home assistant.
 
-## Tech Stack 💻
+It's my personal space to experiment with backend architecture, authentication,
+databases, integrations and AI agents, while trying to keep the system simple
+and understandable as it grows.
 
-<div align="center">
-  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+**Current stack:** TypeScript · NestJS · PostgreSQL · Prisma · Docker
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pereprior&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+→ [Explore LiLi](LINK)
 
-</div>
+## What I'm interested in
 
-## Social Media 🌐
+I'm currently spending most of my learning time on backend engineering,
+software architecture, databases, distributed systems, security and
+observability.
 
-<div align="center">
+I'm also interested in how AI is changing software development. I use it as an
+engineering tool, but I try not to outsource the part I care most about:
+understanding the problem, making technical decisions and being able to explain
+why a solution works.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pereprior) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23182096) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pereprior__)
+## Tools I work with
 
-</div>
+`TypeScript` · `Node.js` · `NestJS` · `PostgreSQL` · `MongoDB` · `Docker` · `Git`
 
-## Languages 🗣️
+## Languages
 
-| Language      | Proficiency      |
-| ------------- | ---------------- |
-| English       |       B1         |
-| Spanish       | Native language  |
-| Catalan       | Native language  |
+Spanish — Native  
+Catalan — Native  
+English — B1 certified, currently studying B2
 
----
+## Elsewhere
 
-[![](https://visitcount.itsvg.in/api?id=pereprior&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-</details>
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[LinkedIn](https://linkedin.com/in/pereprior)
